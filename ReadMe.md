@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Yogi Kautsa 👋
+# Hi there, I'm Yogi Kautsar Alnandeta 👋
 
 ### Backend Engineer Intern | Software Engineering Student
 Focusing on Scalable Systems & Microservices
